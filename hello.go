@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello World!, GitHub")
+	fmt.Println("Hello World!, Local")
 }
